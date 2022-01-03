@@ -1,2 +1,4 @@
-# h5-template-gtd
-För röda tråden övningen Get Things Done
+# totolist 
+övning för utbildning på Medieinstitutet
+
+url: https://gamershabandari.github.io/todolist/
